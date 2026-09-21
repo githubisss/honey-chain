@@ -1,0 +1,6 @@
+{
+  "name": "HoneyChain – Follow the Honey",
+  "description": "Video-game-style honey traceability platform using blockchain. Follow the bee journey from hive to home.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
